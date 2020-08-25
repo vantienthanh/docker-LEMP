@@ -1,0 +1,3 @@
+docker build -t tvdocker/app:latest ./app
+docker build -t tvdocker/mysql:latest ./mysql
+docker build -t tvdocker/redis:latest ./redis
